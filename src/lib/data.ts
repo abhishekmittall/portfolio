@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Abhishek Mittal",
-  title: "Software Development Engineer II",
+  title: "Software Development Engineer I",
   taglines: [
     "Software Development Engineer",
     "Frontend & React Native Developer",
@@ -27,7 +27,7 @@ export const personalInfo = {
 export const experiences = [
   {
     id: 1,
-    role: "Software Development Engineer II",
+    role: "Software Development Engineer I",
     company: "Startup Labs Infotech Pvt. Ltd.",
     location: "Jaipur, Rajasthan",
     duration: "Nov 2024 – Present",
