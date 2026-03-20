@@ -15,8 +15,8 @@ export const personalInfo = {
   x: "https://x.com/_erabhishek",
   facebook: "https://www.facebook.com/abhi.mittall",
   instagram: "https://www.instagram.com/abhi.mittall/",
-  resume: "https://drive.google.com/file/d/1HkvJ5sWSp-WohWotXBYR7BDhi2TRBBCz/view?usp=sharing",
-  resumeDownload: "https://drive.google.com/uc?export=download&id=1HkvJ5sWSp-WohWotXBYR7BDhi2TRBBCz",
+  resume: "https://drive.google.com/file/d/1r559SFuY8Q3aOn_d2v3sl39TH64Lkzgv/view?usp=sharing",
+  resumeDownload: "https://drive.google.com/uc?export=download&id=1r559SFuY8Q3aOn_d2v3sl39TH64Lkzgv",
   about: `Results-driven Software Engineer with 3+ years of experience in building scalable
     fintech, crypto, and AI-powered applications. Skilled in React, React Native, and API
     integrations, focused on delivering high-performance, user-centric digital solutions.`,
