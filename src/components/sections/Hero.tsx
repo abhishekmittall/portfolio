@@ -13,7 +13,7 @@ import { Button } from "@/components/ui/Button";
 const codeLines = [
   { tokens: [{ t: "const", c: "keyword" }, { t: " developer", c: "var" }, { t: " = {", c: "default" }] },
   { tokens: [{ t: "  name:", c: "key" }, { t: ' "Abhishek Mittal"', c: "string" }, { t: ",", c: "default" }] },
-  { tokens: [{ t: "  role:", c: "key" }, { t: ' "SDE II"', c: "string" }, { t: ",", c: "default" }] },
+  { tokens: [{ t: "  role:", c: "key" }, { t: ' "SDE I"', c: "string" }, { t: ",", c: "default" }] },
   { tokens: [{ t: "  stack:", c: "key" }, { t: " [", c: "default" }] },
   { tokens: [{ t: '    "React Native"', c: "string" }, { t: ",", c: "default" }] },
   { tokens: [{ t: '    "React.js"', c: "string" }, { t: ",", c: "default" }] },
