@@ -7,7 +7,7 @@ import ThemeProvider from "@/components/providers/ThemeProvider";
 const inter = Inter({ subsets: ["latin"], display: "swap" });
 
 export const metadata: Metadata = {
-  title: `${personalInfo.name} — SDE II | Frontend & React Native Developer`,
+  title: `${personalInfo.name} — SDE I | Frontend & React Native Developer`,
   description: `Portfolio of ${personalInfo.name}, a Software Development Engineer II with 3+ years of experience building fintech, crypto, and AI-powered mobile & web applications.`,
   keywords: ["React Native Developer", "Full Stack Developer", "React Developer", "Next.js", "TypeScript", "Fintech Developer", "Mobile App Developer", personalInfo.name, "Jaipur"],
   authors: [{ name: personalInfo.name }],
@@ -15,13 +15,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    title: `${personalInfo.name} — SDE II | React & React Native Developer`,
+    title: `${personalInfo.name} — SDE I | React & React Native Developer`,
     description: `Portfolio of ${personalInfo.name} — 3+ years building scalable fintech, crypto, and AI-powered apps.`,
     siteName: personalInfo.name,
   },
   twitter: {
     card: "summary_large_image",
-    title: `${personalInfo.name} — SDE II | React & React Native Developer`,
+    title: `${personalInfo.name} — SDE I | React & React Native Developer`,
     description: `Portfolio of ${personalInfo.name} — 3+ years building scalable fintech, crypto, and AI-powered apps.`,
   },
 };
